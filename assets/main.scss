@@ -1,6 +1,9 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+@import "colors";
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -10,5 +13,9 @@
 body {
   font-size: 18px;
   font-family: Arial;
-  color: saddlebrown;
+  color: gray;
+}
+
+.page-header {
+  @extend .blue-1-bg;
 }
