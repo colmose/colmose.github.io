@@ -1,5 +1,5 @@
 ---
-permalink: /siren_er/
+permalink: /siren-er/
 ---
 # Siren Entity Resolution
 

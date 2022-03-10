@@ -1,5 +1,5 @@
 ---
-permalink: /siren_nlp/
+permalink: /siren-nlp/
 ---
 # Siren NLP
 The Siren NLP plugin provides an Elasticsearch ingestion pipeline with a variety of processors that enriches documents by performing entity extraction.
