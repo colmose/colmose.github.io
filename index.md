@@ -1,4 +1,2 @@
-
-
-[siren er](siren-er.md)
-[siren NLP](siren-nlp.md)
+* [siren er](siren-er.md)
+* [siren NLP](siren-nlp.md)
