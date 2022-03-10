@@ -25,8 +25,8 @@ For more details, see our [documentation](https://docs.support.siren.io/siren-nl
 | 7.9.3 | [7.9.3-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.9.3-0.5.1.zip) |
 | 7.10.1 | [7.10.1-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.10.1-0.5.1.zip) |
 | 7.10.2 | [7.10.2-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.10.2-0.5.1.zip) |
-| 7.13.4 | [7.13.4-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.13.4-0.5.3.zip) |
+| 7.13.4 | [7.13.4-0.5.3](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.13.4-0.5.3.zip) |
 | 7.15.1 | [7.15.1-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.15.1-0.5.1.zip) |
 | 7.15.2 | [7.15.2-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.15.2-0.5.1.zip) |
-| 7.16.2 | [7.16.2-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.16.2-0.5.3.zip) |
-| 7.16.3 | [7.16.3-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.16.3-0.5.4.zip) |
+| 7.16.2 | [7.16.2-0.5.3](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.16.2-0.5.3.zip) |
+| 7.16.3 | [7.16.3-0.5.4](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.16.3-0.5.4.zip) |
