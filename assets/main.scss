@@ -19,3 +19,10 @@ body {
 .page-header {
   @extend .blue-1-bg;
 }
+
+#content {
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
