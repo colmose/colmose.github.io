@@ -28,7 +28,8 @@ body {
   .header-logo {
     width: 200px;
     height: auto;
-    top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     left: 5%;
   }
 }
@@ -38,6 +39,7 @@ body {
   margin: auto;
   display: block;
   position: relative;
+  margin-top: 85px;
 
   table {
     max-width: 600px;
